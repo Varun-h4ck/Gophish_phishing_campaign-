@@ -1,6 +1,4 @@
-# Gophish_phishing_campaign-
-
-# Gophish Phishing Campaign
+# Gophish_phishing_campaign
 
 This project uses **Gophish**, an open-source phishing toolkit, to simulate phishing attacks for security awareness training in a safe and authorized environment.
 
